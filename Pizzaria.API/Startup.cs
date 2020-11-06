@@ -1,4 +1,3 @@
-using System;
 using System.Linq;
 using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -11,7 +10,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using MYP.API;
 using Pizzaria.Infra;
 
 // ReSharper disable MemberCanBePrivate.Global

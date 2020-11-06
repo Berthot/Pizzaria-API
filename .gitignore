@@ -403,3 +403,10 @@ $RECYCLE.BIN/
 
 *.\Resources\testCSharpXlsx.xlsx
 *.\Resources\testCSharpCsv.xlsx
+/Pizzaria.Domain/Repositories/ITodoRepository.cs
+/Pizzaria.Domain/Queries/TodoQueries.cs
+/Pizzaria.Domain/Handlers/TodoHandler.cs
+/Pizzaria.Domain/Commands/CreateTodoCommand.cs
+/Pizzaria.Domain/Commands/MarkTodoAsDoneCommand.cs
+/Pizzaria.Domain/Commands/MarkTodoAsUndoneCommand.cs
+/Pizzaria.Domain/Commands/UpdateTodoCommand.cs

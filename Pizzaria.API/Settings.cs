@@ -1,4 +1,4 @@
-namespace MYP.API
+namespace Pizzaria.API
 {
     public static class Settings
     {
